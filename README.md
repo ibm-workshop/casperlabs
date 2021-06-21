@@ -1,2 +1,2 @@
-# eth3
-Ethereum 3.0 workshop
+# CasperLabs
+CasperLabs 3.0 workshop
